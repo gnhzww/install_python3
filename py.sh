@@ -3,7 +3,7 @@
 # author:20th
 # 
 
-version='3.8.2'
+version = '3.8.2'
 echo '自动安装python3.x程序，与服务器自带版本共存，使用请执行python3'
 
 #安装环境包
