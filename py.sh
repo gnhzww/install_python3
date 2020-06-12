@@ -3,11 +3,11 @@
 # author:20th
 # 
 
-#version = '3.8.2'
+# version = '3.8.2'
 echo '自动安装python3.x程序，与服务器自带版本共存，使用请执行python3'
 
-#安装环境包
-#yum install vim -y
+# 安装环境包
+# yum install vim -y
 yum -y install zlib zlib-devel bzip2 bzip2-devel ncurses ncurses-devel readline readline-devel openssl openssl-devel openssl-static xz lzma xz-devel sqlite sqlite-devel
 yum -y install gdbm gdbm-devel
 yum -y install tk tk-devel
